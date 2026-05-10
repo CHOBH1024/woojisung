@@ -1,0 +1,4 @@
+const tsrStartManifest = () => ({ "routes": { "__root__": { "filePath": "C:/Users/타마짱2/Desktop/make-it-mine-35-main/src/routes/__root.tsx", "children": ["/", "/privacy", "/terms"], "preloads": ["/woojisung/assets/main-Cw08ldEG.js"], "assets": [] }, "/": { "filePath": "C:/Users/타마짱2/Desktop/make-it-mine-35-main/src/routes/index.tsx", "assets": [], "preloads": ["/woojisung/assets/index-Cmu2aOAQ.js"] }, "/privacy": { "filePath": "C:/Users/타마짱2/Desktop/make-it-mine-35-main/src/routes/privacy.tsx", "assets": [], "preloads": ["/woojisung/assets/privacy-CZfkBU06.js"] }, "/terms": { "filePath": "C:/Users/타마짱2/Desktop/make-it-mine-35-main/src/routes/terms.tsx", "assets": [], "preloads": ["/woojisung/assets/terms-rjqoqbF2.js"] } }, "clientEntry": "/woojisung/assets/main-Cw08ldEG.js" });
+export {
+  tsrStartManifest
+};
